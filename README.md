@@ -1,7 +1,3 @@
-Here's a `README.md` file for your GitHub project:
-
----
-
 # EDA on Titanic Dataset
 
 This project focuses on performing Exploratory Data Analysis (EDA) on the famous Titanic dataset to discover patterns and insights. The analysis includes data cleaning, visualization, and statistical analysis to understand the factors that contributed to the survival of passengers.
@@ -9,7 +5,6 @@ This project focuses on performing Exploratory Data Analysis (EDA) on the famous
 ## Table of Contents
 - [Introduction](#introduction)
 - [Technologies Used](#technologies-used)
-- [Setup and Installation](#setup-and-installation)
 - [Usage](#usage)
 - [Results](#results)
 - [Contributing](#contributing)
@@ -26,27 +21,6 @@ The Titanic dataset provides information about the passengers aboard the Titanic
 - **Matplotlib** - For creating static visualizations
 - **Seaborn** - For advanced statistical visualizations
 
-## Setup and Installation
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/yourusername/titanic-eda.git
-   ```
-   
-2. **Navigate to the project directory:**
-   ```bash
-   cd titanic-eda
-   ```
-
-3. **Install the required packages:**
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-4. **Run the Jupyter Notebook:**
-   ```bash
-   jupyter notebook project1.ipynb
-   ```
 
 ## Usage
 
