@@ -30,14 +30,6 @@ After cloning and setting up the project, you can open the Jupyter Notebook `pro
 - Feature analysis for survival rate
 - Basic statistical exploration
 
-### Example Analysis
-
-```python
-import seaborn as sns
-import matplotlib.pyplot as plt
-sns.countplot(x='Survived', data=titanic_df)
-plt.show()
-```
 
 ## Results
 
@@ -54,6 +46,3 @@ Feel free to contribute to this project by submitting pull requests or reporting
 
 This project is licensed under the MIT License.
 
----
-
-You can update the repository URL and `requirements.txt` content if necessary.
